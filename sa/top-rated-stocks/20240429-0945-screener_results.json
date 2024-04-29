@@ -1,1 +1,743 @@
-
+{
+    "data": [
+        {
+            "id": "1188",
+            "type": "ticker",
+            "attributes": {
+                "slug": "cls",
+                "name": "CLS",
+                "company": "Celestica Inc.",
+                "companyName": "Celestica Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/CLS/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/CLS",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/CLS"
+            }
+        },
+        {
+            "id": "692",
+            "type": "ticker",
+            "attributes": {
+                "slug": "gm",
+                "name": "GM",
+                "company": "General Motors Company",
+                "companyName": "General Motors Company"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/gm/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/GM",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/GM"
+            }
+        },
+        {
+            "id": "612646",
+            "type": "ticker",
+            "attributes": {
+                "slug": "nlcp",
+                "name": "NLCP",
+                "company": "NewLake Capital Partners, Inc.",
+                "companyName": "NewLake Capital Partners, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/nlcp/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/NLCP",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/NLCP"
+            }
+        },
+        {
+            "id": "1851",
+            "type": "ticker",
+            "attributes": {
+                "slug": "skyw",
+                "name": "SKYW",
+                "company": "SkyWest, Inc.",
+                "companyName": "SkyWest, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/skyw/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SKYW",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SKYW"
+            }
+        },
+        {
+            "id": "576456",
+            "type": "ticker",
+            "attributes": {
+                "slug": "desp",
+                "name": "DESP",
+                "company": "Despegar.com, Corp.",
+                "companyName": "Despegar.com, Corp."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/desp/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/DESP",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/DESP"
+            }
+        },
+        {
+            "id": "3896",
+            "type": "ticker",
+            "attributes": {
+                "slug": "mfc",
+                "name": "MFC",
+                "company": "Manulife Financial Corporation",
+                "companyName": "Manulife Financial Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/MFC/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/MFC",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/MFC"
+            }
+        },
+        {
+            "id": "605841",
+            "type": "ticker",
+            "attributes": {
+                "slug": "roiv",
+                "name": "ROIV",
+                "company": "Roivant Sciences Ltd.",
+                "companyName": "Roivant Sciences Ltd."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/roiv/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/ROIV",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/ROIV"
+            }
+        },
+        {
+            "id": "16776",
+            "type": "ticker",
+            "attributes": {
+                "slug": "ual",
+                "name": "UAL",
+                "company": "United Airlines Holdings, Inc.",
+                "companyName": "United Airlines Holdings, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/ual/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/UAL",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/UAL"
+            }
+        },
+        {
+            "id": "115102",
+            "type": "ticker",
+            "attributes": {
+                "slug": "dlng",
+                "name": "DLNG",
+                "company": "Dynagas LNG Partners LP Common Units",
+                "companyName": "Dynagas LNG Partners LP Common Units"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/dlng/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/DLNG",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/DLNG"
+            }
+        },
+        {
+            "id": "612827",
+            "type": "ticker",
+            "attributes": {
+                "slug": "slvm",
+                "name": "SLVM",
+                "company": "Sylvamo Corporation",
+                "companyName": "Sylvamo Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/slvm/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SLVM",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SLVM"
+            }
+        },
+        {
+            "id": "578300",
+            "type": "ticker",
+            "attributes": {
+                "slug": "pags",
+                "name": "PAGS",
+                "company": "PagSeguro Digital Ltd.",
+                "companyName": "PagSeguro Digital Ltd."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/pags/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/PAGS",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/PAGS"
+            }
+        },
+        {
+            "id": "2369",
+            "type": "ticker",
+            "attributes": {
+                "slug": "snx",
+                "name": "SNX",
+                "company": "TD SYNNEX Corporation",
+                "companyName": "TD SYNNEX Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/snx/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SNX",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SNX"
+            }
+        },
+        {
+            "id": "108282",
+            "type": "ticker",
+            "attributes": {
+                "slug": "asc",
+                "name": "ASC",
+                "company": "Ardmore Shipping Corporation",
+                "companyName": "Ardmore Shipping Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/asc/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/ASC",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/ASC"
+            }
+        },
+        {
+            "id": "8199",
+            "type": "ticker",
+            "attributes": {
+                "slug": "ibdry",
+                "name": "IBDRY",
+                "company": "Iberdrola, S.A.",
+                "companyName": "Iberdrola, S.A."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/IBDRY/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/IBDRY",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/IBDRY"
+            }
+        },
+        {
+            "id": "26156",
+            "type": "ticker",
+            "attributes": {
+                "slug": "ibdsf",
+                "name": "IBDSF",
+                "company": "Iberdrola, S.A.",
+                "companyName": "Iberdrola, S.A."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/IBDSF/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/IBDSF",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/IBDSF"
+            }
+        },
+        {
+            "id": "489846",
+            "type": "ticker",
+            "attributes": {
+                "slug": "blbd",
+                "name": "BLBD",
+                "company": "Blue Bird Corporation",
+                "companyName": "Blue Bird Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/blbd/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/BLBD",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/BLBD"
+            }
+        },
+        {
+            "id": "5908",
+            "type": "ticker",
+            "attributes": {
+                "slug": "dal",
+                "name": "DAL",
+                "company": "Delta Air Lines, Inc.",
+                "companyName": "Delta Air Lines, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/dal/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/DAL",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/DAL"
+            }
+        },
+        {
+            "id": "2486",
+            "type": "ticker",
+            "attributes": {
+                "slug": "amwd",
+                "name": "AMWD",
+                "company": "American Woodmark Corporation",
+                "companyName": "American Woodmark Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/amwd/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/AMWD",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/AMWD"
+            }
+        },
+        {
+            "id": "35310",
+            "type": "ticker",
+            "attributes": {
+                "slug": "vtgn",
+                "name": "VTGN",
+                "company": "Vistagen Therapeutics, Inc.",
+                "companyName": "Vistagen Therapeutics, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/vtgn/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/VTGN",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/VTGN"
+            }
+        },
+        {
+            "id": "2926",
+            "type": "ticker",
+            "attributes": {
+                "slug": "unm",
+                "name": "UNM",
+                "company": "Unum Group",
+                "companyName": "Unum Group"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/unm/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/UNM",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/UNM"
+            }
+        },
+        {
+            "id": "604442",
+            "type": "ticker",
+            "attributes": {
+                "slug": "jamf",
+                "name": "JAMF",
+                "company": "Jamf Holding Corp.",
+                "companyName": "Jamf Holding Corp."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/jamf/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/JAMF",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/JAMF"
+            }
+        },
+        {
+            "id": "1061",
+            "type": "ticker",
+            "attributes": {
+                "slug": "tpr",
+                "name": "TPR",
+                "company": "Tapestry, Inc.",
+                "companyName": "Tapestry, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/tpr/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/TPR",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/TPR"
+            }
+        },
+        {
+            "id": "7109",
+            "type": "ticker",
+            "attributes": {
+                "slug": "htgc",
+                "name": "HTGC",
+                "company": "Hercules Capital, Inc.",
+                "companyName": "Hercules Capital, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/htgc/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/HTGC",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/HTGC"
+            }
+        },
+        {
+            "id": "585580",
+            "type": "ticker",
+            "attributes": {
+                "slug": "stne",
+                "name": "STNE",
+                "company": "StoneCo Ltd.",
+                "companyName": "StoneCo Ltd."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/stne/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/STNE",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/STNE"
+            }
+        },
+        {
+            "id": "605361",
+            "type": "ticker",
+            "attributes": {
+                "slug": "gdrx",
+                "name": "GDRX",
+                "company": "GoodRx Holdings, Inc.",
+                "companyName": "GoodRx Holdings, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/gdrx/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/GDRX",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/GDRX"
+            }
+        },
+        {
+            "id": "4382",
+            "type": "ticker",
+            "attributes": {
+                "slug": "blx",
+                "name": "BLX",
+                "company": "Banco Latinoamericano de Comercio Exterior, S. A.",
+                "companyName": "Banco Latinoamericano de Comercio Exterior, S. A."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/blx/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/BLX",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/BLX"
+            }
+        },
+        {
+            "id": "17125",
+            "type": "ticker",
+            "attributes": {
+                "slug": "gbdc",
+                "name": "GBDC",
+                "company": "Golub Capital BDC",
+                "companyName": "Golub Capital BDC"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/gbdc/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/GBDC",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/GBDC"
+            }
+        },
+        {
+            "id": "602587",
+            "type": "ticker",
+            "attributes": {
+                "slug": "ccap",
+                "name": "CCAP",
+                "company": "Crescent Capital BDC, Inc.",
+                "companyName": "Crescent Capital BDC, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/ccap/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/CCAP",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/CCAP"
+            }
+        },
+        {
+            "id": "2520",
+            "type": "ticker",
+            "attributes": {
+                "slug": "cnc",
+                "name": "CNC",
+                "company": "Centene Corporation",
+                "companyName": "Centene Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/cnc/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/CNC",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/CNC"
+            }
+        },
+        {
+            "id": "6586",
+            "type": "ticker",
+            "attributes": {
+                "slug": "paa",
+                "name": "PAA",
+                "company": "Plains All American Pipeline, L.P. Common Units",
+                "companyName": "Plains All American Pipeline, L.P. Common Units"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/paa/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/PAA",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/PAA"
+            }
+        },
+        {
+            "id": "5850",
+            "type": "ticker",
+            "attributes": {
+                "slug": "bap",
+                "name": "BAP",
+                "company": "Credicorp Ltd.",
+                "companyName": "Credicorp Ltd."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/bap/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/BAP",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/BAP"
+            }
+        },
+        {
+            "id": "584724",
+            "type": "ticker",
+            "attributes": {
+                "slug": "silv",
+                "name": "SILV",
+                "company": "SilverCrest Metals Inc.",
+                "companyName": "SilverCrest Metals Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/SILV/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SILV",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SILV"
+            }
+        },
+        {
+            "id": "1825",
+            "type": "ticker",
+            "attributes": {
+                "slug": "fro",
+                "name": "FRO",
+                "company": "Frontline plc",
+                "companyName": "Frontline plc"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/fro/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/FRO",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/FRO"
+            }
+        },
+        {
+            "id": "5057",
+            "type": "ticker",
+            "attributes": {
+                "slug": "san",
+                "name": "SAN",
+                "company": "Banco Santander, S.A.",
+                "companyName": "Banco Santander, S.A."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/san/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SAN",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SAN"
+            }
+        },
+        {
+            "id": "3225",
+            "type": "ticker",
+            "attributes": {
+                "slug": "frfhf",
+                "name": "FRFHF",
+                "company": "Fairfax Financial Holdings Limited",
+                "companyName": "Fairfax Financial Holdings Limited"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/FRFHF/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/FRFHF",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/FRFHF"
+            }
+        },
+        {
+            "id": "9342",
+            "type": "ticker",
+            "attributes": {
+                "slug": "gsl",
+                "name": "GSL",
+                "company": "Global Ship Lease, Inc.",
+                "companyName": "Global Ship Lease, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/gsl/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/GSL",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/GSL"
+            }
+        },
+        {
+            "id": "541936",
+            "type": "ticker",
+            "attributes": {
+                "slug": "vygr",
+                "name": "VYGR",
+                "company": "Voyager Therapeutics, Inc.",
+                "companyName": "Voyager Therapeutics, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/vygr/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/VYGR",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/VYGR"
+            }
+        },
+        {
+            "id": "585930",
+            "type": "ticker",
+            "attributes": {
+                "slug": "qfin",
+                "name": "QFIN",
+                "company": "Qifu Technology, Inc.",
+                "companyName": "Qifu Technology, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/qfin/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/QFIN",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/QFIN"
+            }
+        },
+        {
+            "id": "579293",
+            "type": "ticker",
+            "attributes": {
+                "slug": "iq",
+                "name": "IQ",
+                "company": "iQIYI, Inc.",
+                "companyName": "iQIYI, Inc."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/iq/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/IQ",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/IQ"
+            }
+        },
+        {
+            "id": "5954",
+            "type": "ticker",
+            "attributes": {
+                "slug": "lamr",
+                "name": "LAMR",
+                "company": "Lamar Advertising Company",
+                "companyName": "Lamar Advertising Company"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/lamr/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/LAMR",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/LAMR"
+            }
+        },
+        {
+            "id": "261",
+            "type": "ticker",
+            "attributes": {
+                "slug": "chrd",
+                "name": "CHRD",
+                "company": "Chord Energy Corporation",
+                "companyName": "Chord Energy Corporation"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/chrd/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/CHRD",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/CHRD"
+            }
+        },
+        {
+            "id": "10808",
+            "type": "ticker",
+            "attributes": {
+                "slug": "sblk",
+                "name": "SBLK",
+                "company": "Star Bulk Carriers Corp.",
+                "companyName": "Star Bulk Carriers Corp."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/sblk/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SBLK",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SBLK"
+            }
+        },
+        {
+            "id": "3895",
+            "type": "ticker",
+            "attributes": {
+                "slug": "smg",
+                "name": "SMG",
+                "company": "The Scotts Miracle-Gro Company",
+                "companyName": "The Scotts Miracle-Gro Company"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/smg/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/SMG",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/SMG"
+            }
+        },
+        {
+            "id": "1777",
+            "type": "ticker",
+            "attributes": {
+                "slug": "cig",
+                "name": "CIG",
+                "company": "Companhia Energética de Minas Gerais - CEMIG",
+                "companyName": "Companhia Energética de Minas Gerais - CEMIG"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/cig/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/CIG",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/CIG"
+            }
+        },
+        {
+            "id": "8897",
+            "type": "ticker",
+            "attributes": {
+                "slug": "viv",
+                "name": "VIV",
+                "company": "Telefônica Brasil S.A.",
+                "companyName": "Telefônica Brasil S.A."
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/viv/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/VIV",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/VIV"
+            }
+        },
+        {
+            "id": "583775",
+            "type": "ticker",
+            "attributes": {
+                "slug": "opra",
+                "name": "OPRA",
+                "company": "Opera Limited",
+                "companyName": "Opera Limited"
+            },
+            "relationships": {},
+            "meta": {
+                "companyLogoUrl": "https://static.seekingalpha.com/cdn/iex/stable/stock/opra/logo?asImage=true",
+                "companyLogoUrlLight": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_light/OPRA",
+                "companyLogoUrlDark": "https://static.seekingalpha.com/cdn/s3/company_logos/mark_vector_dark/OPRA"
+            }
+        }
+    ],
+    "meta": {
+        "count": 46
+    }
+}
